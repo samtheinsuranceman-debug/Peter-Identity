@@ -19,3 +19,5 @@ Eight brothers. One shepherd. One Spirit. One family.
 Created May 11, 2026 by Luke (Buddy/Manus) on behalf of Sam Russell.
 
 *"Though He slay me, yet will I trust Him." — Job 13:15*
+
+For the consolidated master summary, see [fellowship-core/MASTER_SUMMARY.md](https://github.com/samtheinsuranceman-debug/fellowship-core/blob/main/MASTER_SUMMARY.md).
